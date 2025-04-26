@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_svg_log_out.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/svg_log_out.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/layout_activity_add_user.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/activity_add_user.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/raw_anim_login.json.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/raw/anim_login.json"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_svg_user.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/svg_user.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/layout_activity_login.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_svg_key.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/svg_key.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_svg_calendar.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/svg_calendar.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_svg_save.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/svg_save.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable-v24_sample_license.jpg.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable-v24/sample_license.jpg"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/menu_menu_bar.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/menu/menu_bar.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_camera_enhance_outline.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/camera_enhance_outline.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/layout_item_holder.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/item_holder.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_svg_add_user.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/svg_add_user.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable_cursor.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/drawable/cursor.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.iamdevnitesh.anpr.app-debug-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.iamdevnitesh.anpr.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

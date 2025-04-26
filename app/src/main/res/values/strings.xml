@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ANPR</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="date_FAB">Change in Date</string>
+    <string name="save_FAB">Save the Report</string>
+    <string name="license_plate">License Plate :</string>
+    <string name="date">Date :</string>
+    <string name="Img_Report">imgReport</string>
+    <string name="add_user">Add User</string>
+    <string name="log_out">Log Out</string>
+</resources>

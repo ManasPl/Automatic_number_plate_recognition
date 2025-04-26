@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Img_Report">imgReport</string>
+    <string name="add_user">Add User</string>
+    <string name="app_name">ANPR</string>
+    <string name="date">Date :</string>
+    <string name="date_FAB">Change in Date</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="license_plate">License Plate :</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="save_FAB">Save the Report</string>
+    <style name="Theme.ANPR" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

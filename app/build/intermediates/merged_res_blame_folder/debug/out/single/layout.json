@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.iamdevnitesh.anpr.app-mergeDebugResources-36:/layout/activity_login.xml",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-mergeDebugResources-36:/layout/item_holder.xml",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/item_holder.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.iamdevnitesh.anpr.app-mergeDebugResources-36:/layout/activity_add_user.xml",
+        "source": "com.iamdevnitesh.anpr.app-main-39:/layout/activity_add_user.xml"
+    }
+]

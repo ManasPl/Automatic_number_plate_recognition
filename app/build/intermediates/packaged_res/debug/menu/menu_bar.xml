@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/btnAddUser"
+        android:title="@string/add_user"
+        android:icon="@drawable/svg_add_user"
+        android:onClick="addUser"
+        />
+
+    <item android:id="@+id/BtnLogOut"
+        android:title="@string/log_out"
+        android:icon="@drawable/svg_log_out"
+        android:onClick="logOut"
+        />
+</menu>
