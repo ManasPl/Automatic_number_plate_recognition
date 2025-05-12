@@ -7,9 +7,7 @@ This is a **real-time vehicle number plate recognition Android application** bui
 
 # UI
 
-![Home page](https://github.com/user-attachments/assets/5c575007-6a36-4605-a259-8e57ed2f523d)
-
-![End Term Capstone PPT register page](https://github.com/user-attachments/assets/d7948b77-a57e-4c8c-be47-1d2e6176a22f)
+ ![Home page](https://github.com/user-attachments/assets/de86d058-0500-4bca-865f-f776c179a037)    ![End Term Capstone PPT register page](https://github.com/user-attachments/assets/d7948b77-a57e-4c8c-be47-1d2e6176a22f)
 
 ---
 
