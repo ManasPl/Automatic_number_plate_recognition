@@ -5,6 +5,12 @@
 
 This is a **real-time vehicle number plate recognition Android application** built with **TensorFlow Lite**, **Firebase**, and **EasyOCR**. The app captures number plates through the mobile camera, extracts text, stores logs on the cloud, and provides history & report features for traffic, security, and monitoring purposes.
 
+# UI
+
+![Home page](https://github.com/user-attachments/assets/5c575007-6a36-4605-a259-8e57ed2f523d)
+
+![End Term Capstone PPT register page](https://github.com/user-attachments/assets/d7948b77-a57e-4c8c-be47-1d2e6176a22f)
+
 ---
 
 ## 📱 App Overview
